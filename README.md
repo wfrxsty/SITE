@@ -6,5 +6,5 @@
  |_|  |_|  /_/\_\  \/  \/ \__,_|_|  \___|
                                          
                                          <br /><br /><br /><a title="FrxWare DHC" href="https://discord.gg/2qd6MPc6RY" target="_blank">DHC server</a><br /><br />    </pre>
-<p>Script Server</p>
+
 
